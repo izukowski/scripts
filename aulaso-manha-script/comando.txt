@@ -1,0 +1,9 @@
+expr 8 + 8 valor igual a 16
+echo $ expr 8 + 8 mostra a string expr...
+echo $(expr 8 + 8) valor igual a 16
+echo $((8 + 8)) valor gual a 16
+let x=(8 + 8);echo x atribui um valor para x e escrve na tela 
+
+comparar strings == ou = (-eq) para numero 
+
+
