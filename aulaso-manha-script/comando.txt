@@ -15,4 +15,22 @@ echo "primeiro nome= ${name:0:4}"//imprime da primeira posicao ate a ultima
 ping ip // pinga o ip igual win
 ping -c uma vez só
 script ping.sh informa que o ip exite ou nao
+
+case: compara a estenção do arquivo-->script case.sh
+
+loop
+
+for j in 1 2 3 4 5 6 7 8 9 10
+do 
+.....
+done--> script for.sh
+
+for variavel in $(ls) -->for2.sh
+
+while[ $j -le $n ]--> while.sh calacula fatorial
+
+until condição
+do
+....
+done -->until.sh
  
